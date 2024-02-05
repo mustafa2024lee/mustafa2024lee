@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mustafa2024lee
-- 👀 I’m interested in ...HTML, CSS, Tailwind, Frontend
+- 👀 I’m interested in ...HTML, CSS, Tailwind, Frontend, PowerShell
 - 🌱 I’m currently learning ... Linux
 - 💞️ I’m looking to collaborate on ... Translating any project to Arabic language.
-- 📫 How to reach me ... Telegram: mustafa2024
 
 <!---
 mustafa2024lee/mustafa2024lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
