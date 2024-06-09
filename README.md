@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafa2024lee
-- 👀 I’m interested in ...HTML, CSS, Tailwind, Frontend, PowerShell
-- 🌱 I’m currently learning ... Linux
+- 👀 I’m interested in cyber cecurity
+- 🌱 Alwayes learning new stuff
 - 💞️ I’m looking to collaborate on ... Translating any project to Arabic language.
 
 <!---
